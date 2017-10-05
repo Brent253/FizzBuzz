@@ -21,3 +21,12 @@ for (int i = 1; i <= 1000; i++) {
 		System.out.print("Buzz");
 		
 		
+	}
+	
+	else if (i % 5 ==0) && (i % 3 == 0)
+	{
+		
+		System.out.print("FizzBuzz");
+		
+		
+	}
